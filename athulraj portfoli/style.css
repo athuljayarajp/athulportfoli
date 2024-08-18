@@ -1,0 +1,70 @@
+
+body{
+    background-color: black;
+}
+
+
+h2{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(19, 18, 18, 0.781);
+    size: 300px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:hover{
+    color: rgba(155, 171, 245, 0.801);
+}
+nav{
+    background-color: rgba(217, 249, 253, 0.692);
+    text-align: center;
+    word-spacing: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    
+    
+    
+}
+.portfoli{
+    background-color: rgba(0, 0, 0, 0.753);
+    text-align: left;
+    word-spacing: 10px;
+    color:rgba(245, 238, 238, 0.849);
+    padding: 200px 100px 400px 300px;
+    
+    
+
+}
+.portfoli img{
+    
+    position: absolute;left: 1050px;top: 90px;bottom: 100px;right: 100px;
+    
+    width: 700px;
+    height: 700px;
+    
+    
+
+
+    
+
+    
+}
+
+.s1{
+    color: rgb(43, 226, 150);
+    font-size: 45px;
+}
